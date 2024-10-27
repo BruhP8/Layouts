@@ -23,10 +23,10 @@
   </tr>
   <tr>
     <td>
-      <img src="previews/peasant_layout.png" alt="Peasant Layout"></img>
+      <img src="previews/peasant_layout.PNG" alt="Peasant Layout"></img>
     </td>
     <td>
-      <img src="previews/lord_layout.png" alt="Lord Layout"></img>
+      <img src="previews/lord_layout.PNG" alt="Lord Layout"></img>
     </td>
   </tr>
 </table>
